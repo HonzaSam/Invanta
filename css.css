@@ -10,7 +10,7 @@ html	{
 }
 
 .vrsek {
-	background-image: url(../images/podklad_top.png);
+	background-image: url(images/podklad_top.png);
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: top right;
@@ -205,7 +205,7 @@ a {
 
 .spodek {
 	display: flex;
-	background-image: url(../images/podklad_end.png);
+	background-image: url(images/podklad_end.png);
 	background-size: 80%;
 	background-repeat: no-repeat;
 	background-position: bottom left;
